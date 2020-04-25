@@ -1,0 +1,52 @@
+body{
+
+	margin: 0;
+	padding: 0;
+
+	background-color: #f0f0f0;
+	color: #252828;
+}
+
+form{
+	width: 100%;
+	text-align: center;
+}
+
+h1{
+
+	text-align: center;
+	margin: 30px auto;
+}
+
+p{
+	margin: 0px auto;
+
+	font-size: 30px;
+
+}
+
+input{
+	font-size: 18px;
+	text-align: center;
+
+	display: block;
+
+	margin: 10px auto;
+	padding: 10px;
+
+	border-radius:10px;
+	border: none;	
+	outline: none;
+	
+	width: 50%;
+	height: 30px;
+
+	border: 1px solid black;
+
+
+}
+
+span{
+	font-weight: bold;
+}
+
